@@ -1,0 +1,17 @@
+#+CAPTION: UDOO X86 II Advanced Plus initial prototype
+#+NAME: fig:udoo-prototype.png
+[[./udoo-prototype.png]]
+
+* Notes
+
+This is the original version of the v128 system, in prototype form. This system
+uses an x86-based UDOO single-board-computer as the main workhorse. The screws
+have no metal inserts to screw into, and screw directly into the plastic.
+
+* Generalized Bill-of-Materials
+
+  - 1 x [[https://shop.udoo.org/udoo-x86-ii-advanced-plus.html][UDOO X86 II Advanced Plus]]
+  - 1 x [[https://www.digikey.com/product-detail/en/ideal-power-ltd/40XA065BP1200300/2882-40XA065BP1200300-ND/12818292][12V AC/DC adapter]]
+  - 2 x [[https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SSL-LX25783ID/67-1053-ND/270851][Through-hole RED Rectangle LEDs 2.3mm x 7mm]]
+  - 1 x [[https://www.digikey.com/product-detail/en/e-switch/R4FBLKBLKGF0/R4FBLKBLKGF0-ND/1805292][SPST-NO 20A 125V Rocker Switch]]
+  - 6 x M3x0.5x5 socket head metric screws

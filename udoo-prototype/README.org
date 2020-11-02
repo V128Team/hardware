@@ -8,6 +8,10 @@ This is the original version of the v128 system, in prototype form. This system
 uses an x86-based UDOO single-board-computer as the main workhorse. The screws
 have no metal inserts to screw into, and screw directly into the plastic.
 
+These parts are designed to be 3D printed using a 0.2mm layer height. The front
+piece should be printed with the facia facing the print bed. The top-piece
+should be printed on-end, vertically.
+
 * Generalized Bill-of-Materials
 
   - 1 x [[https://shop.udoo.org/udoo-x86-ii-advanced-plus.html][UDOO X86 II Advanced Plus]]

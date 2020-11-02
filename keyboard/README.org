@@ -1,0 +1,13 @@
+#+CAPTION: V128 Keyboard preview
+#+NAME: fig:keyboard-preview
+[[./keyboard-preview.png]]
+
+* What is this?
+
+This directory contains the keyboard layouts necessary to create a custom v128
+mechanical USB keyboard for use with a v128 Home Computer system. These layouts
+are designed using the [[wasdkeyboards.com][wasd Keyboards]] keyboard templates, and should be usable
+directly in their [[https://www.wasdkeyboards.com/wasd-v3-104-key-custom-mechanical-keyboard.html][custom keyboard designer]].
+
+Note that these are designed for the "WASD V3 104-Key Custom Mechanical
+Keyboard" in the US layout only.

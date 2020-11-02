@@ -1,0 +1,4 @@
+* What is this?
+
+This repository contains all of the artifacts needed to create various stages of
+the v128 Home Computer.

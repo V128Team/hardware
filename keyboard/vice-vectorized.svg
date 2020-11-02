@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="v128-vectorized.svg">
+   sodipodi:docname="v=128-vectorized.svg">
   <defs
      id="defs4">
     <symbol
@@ -110,17 +110,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710675"
-     inkscape:cx="885.0984"
-     inkscape:cy="233.44083"
+     inkscape:zoom="11.313708"
+     inkscape:cx="274.03502"
+     inkscape:cy="177.48152"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
@@ -149,7 +149,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5231,7 +5231,7 @@
            height="28.653221"
            x="295"
            y="-54" /></flowRegion><flowPara
-         id="flowPara8238" /></flowRoot>  </g>
+         id="flowPara8238"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer26"
@@ -6582,7 +6582,7 @@
          sodipodi:role="line"
          id="tspan7545"
          x="789.13116"
-         y="138.78406" /></text>
+         y="138.78406"></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 170.35345,251.65645 v 14.61973 -7.30986 h 7.30986"
@@ -7086,7 +7086,11 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       aria-label="E N T E R"
+       aria-label="E
+N
+T
+E
+R"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot8168">
       <path
@@ -8288,114 +8292,5 @@
        d="m 468.99536,323.65558 h 2.29131 v 14.8383 h -2.29131 z"
        id="rect8256"
        inkscape:connector-curvature="0" />
-    <g
-       id="g10118"
-       transform="translate(-2.6427741,-0.8997459)">
-      <g
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         aria-label="V"
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         id="text829"
-         transform="matrix(1.0266867,0,-0.33359075,1.0266867,114.07381,381.46614)">
-        <path
-           sodipodi:nodetypes="cccccccc"
-           d="m 71.649822,97.274445 12.7,-37.0332 h -7.428366 l -9.269961,24.218259 -7.86899,-24.21826 h -6.838649 l 12.032816,37.033199 z"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.26458332"
-           id="path4549"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="rect4552"
-         d="m 181.5962,443.31503 h 4.4239 l -25.34961,38.02149 h -4.4239 z"
-         style="fill:#ff4444;fill-opacity:1;stroke:none;stroke-width:0.27207202;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         id="path4674"
-         d="m 177.32819,467.5105 c -0.69156,0 -1.38033,0.0751 -2.06629,0.22547 -0.68691,0.14433 -1.26665,0.36682 -1.95307,0.6675 v 2.85949 c 0.7201,-0.46906 1.19742,-0.81495 1.79388,-1.03745 0.60153,-0.22851 1.15789,-0.34274 1.66904,-0.34274 0.54723,0 0.9925,0.13533 1.33568,0.40593 0.34921,0.27061 0.56248,0.65248 0.63995,1.14559 0.0727,0.46304 3.6e-4,0.94115 -0.21661,1.43426 -0.2172,0.49311 -0.57074,0.98021 -1.06044,1.46129 l -4.1615,4.49205 v 2.39945 h 8.43733 l -0.003,-0.94897 c -0.40567,-0.41461 -0.6703,-0.87384 -0.8405,-1.45048 h -4.3838 l 2.634,-2.67905 c 1.28058,-1.22675 2.03395,-2.20088 2.35358,-2.92251 0.065,-0.14681 0.1045,-0.29707 0.15059,-0.45036 -0.26061,-0.38484 -0.43097,-0.82993 -0.51046,-1.33568 -0.11434,-0.72773 -0.0537,-1.36246 0.18174,-1.90426 -0.24529,-0.43698 -0.51931,-0.81252 -0.94678,-1.12656 -0.80314,-0.59533 -1.82103,-0.89297 -3.0538,-0.89297 z"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:50.79999924px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique Semi-Condensed';letter-spacing:-6.15685606px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09621631"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccsccccccccccccccccsc" />
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         id="path4672"
-         d="m 185.95386,467.51052 c -1.59358,0 -2.78654,0.34877 -3.57899,1.04634 -0.79245,0.69757 -1.09282,1.65668 -0.90104,2.87743 0.0955,0.60737 0.32151,1.12756 0.67817,1.56052 0.36267,0.43299 0.85689,0.78478 1.48271,1.05538 -0.9602,0.31871 -1.66931,0.83891 -2.12722,1.56054 -0.45886,0.71561 -0.61314,1.55143 -0.46292,2.50757 0.16626,1.05839 0.66903,1.88525 1.50821,2.4806 0.83827,0.58932 1.92489,0.88403 3.25989,0.88403 1.69581,0 2.96446,-0.40294 3.80607,-1.20874 0.84759,-0.80582 1.16272,-1.90027 0.94547,-3.28338 -0.1143,-0.72764 -0.36516,-1.32903 -0.75248,-1.80409 -0.38733,-0.47507 -0.9339,-0.85389 -1.63976,-1.13653 0.86552,-0.2706 1.49411,-0.70961 1.88576,-1.31698 0.39771,-0.60736 0.52951,-1.33797 0.39535,-2.1919 -0.15116,-0.96216 -0.6201,-1.70784 -1.40681,-2.23703 -0.78672,-0.52919 -1.81754,-0.79376 -3.09241,-0.79376 z m 0.0542,2.18287 c 0.3969,0 0.73555,0.1263 1.01576,0.37887 0.27926,0.24656 0.45145,0.57725 0.51665,0.99218 0.0926,0.58933 -0.001,1.06441 -0.28124,1.42522 -0.27501,0.3548 -0.68916,0.53224 -1.2424,0.53224 -0.39088,0 -0.72644,-0.1263 -1.00665,-0.37887 -0.28024,-0.25257 -0.45239,-0.58335 -0.51664,-0.99227 -0.0926,-0.58932 -0.001,-1.06139 0.27361,-1.41619 0.27406,-0.36081 0.68767,-0.54118 1.24091,-0.54118 z m -0.19999,5.50236 c 0.47506,0 0.87409,0.1473 1.19699,0.44197 0.32892,0.29466 0.53262,0.69156 0.61104,1.19069 0.11054,0.70358 -0.007,1.29291 -0.35372,1.76798 -0.34724,0.46905 -0.84259,0.70358 -1.48604,0.70358 -0.48108,0 -0.88255,-0.1443 -1.20453,-0.43295 -0.31689,-0.29466 -0.51456,-0.69156 -0.59299,-1.19069 -0.10959,-0.69756 0.009,-1.28388 0.35513,-1.75895 0.35138,-0.48108 0.8427,-0.72163 1.47412,-0.72163 z"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:50.79999924px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique Semi-Condensed';letter-spacing:-6.15685606px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09621631"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         sodipodi:nodetypes="ccccccccc"
-         id="path4670"
-         d="m 170.52034,467.98246 -3.03957,4.55513 v 6.2843 h -2.92448 v 2.39943 h 8.43789 v -2.39943 h -2.47384 z"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:50.79999924px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique Semi-Condensed';letter-spacing:-6.15685606px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09621631"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(717.0606,-0.8997459)"
-       style="display:inline"
-       id="g10118-3">
-      <g
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         aria-label="V"
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         id="text829-6"
-         transform="matrix(1.0266867,0,-0.33359075,1.0266867,114.07381,381.46614)">
-        <path
-           sodipodi:nodetypes="cccccccc"
-           d="m 71.649822,97.274445 12.7,-37.0332 h -7.428366 l -9.269961,24.218259 -7.86899,-24.21826 h -6.838649 l 12.032816,37.033199 z"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.26458332"
-           id="path4549-7"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="rect4552-5"
-         d="m 181.5962,443.31503 h 4.4239 l -25.34961,38.02149 h -4.4239 z"
-         style="fill:#ff4444;fill-opacity:1;stroke:none;stroke-width:0.27207202;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         id="path4674-3"
-         d="m 177.32819,467.5105 c -0.69156,0 -1.38033,0.0751 -2.06629,0.22547 -0.68691,0.14433 -1.26665,0.36682 -1.95307,0.6675 v 2.85949 c 0.7201,-0.46906 1.19742,-0.81495 1.79388,-1.03745 0.60153,-0.22851 1.15789,-0.34274 1.66904,-0.34274 0.54723,0 0.9925,0.13533 1.33568,0.40593 0.34921,0.27061 0.56248,0.65248 0.63995,1.14559 0.0727,0.46304 3.6e-4,0.94115 -0.21661,1.43426 -0.2172,0.49311 -0.57074,0.98021 -1.06044,1.46129 l -4.1615,4.49205 v 2.39945 h 8.43733 l -0.003,-0.94897 c -0.40567,-0.41461 -0.6703,-0.87384 -0.8405,-1.45048 h -4.3838 l 2.634,-2.67905 c 1.28058,-1.22675 2.03395,-2.20088 2.35358,-2.92251 0.065,-0.14681 0.1045,-0.29707 0.15059,-0.45036 -0.26061,-0.38484 -0.43097,-0.82993 -0.51046,-1.33568 -0.11434,-0.72773 -0.0537,-1.36246 0.18174,-1.90426 -0.24529,-0.43698 -0.51931,-0.81252 -0.94678,-1.12656 -0.80314,-0.59533 -1.82103,-0.89297 -3.0538,-0.89297 z"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:50.79999924px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique Semi-Condensed';letter-spacing:-6.15685606px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09621631"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccsccccccccccccccccsc" />
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         id="path4672-5"
-         d="m 185.95386,467.51052 c -1.59358,0 -2.78654,0.34877 -3.57899,1.04634 -0.79245,0.69757 -1.09282,1.65668 -0.90104,2.87743 0.0955,0.60737 0.32151,1.12756 0.67817,1.56052 0.36267,0.43299 0.85689,0.78478 1.48271,1.05538 -0.9602,0.31871 -1.66931,0.83891 -2.12722,1.56054 -0.45886,0.71561 -0.61314,1.55143 -0.46292,2.50757 0.16626,1.05839 0.66903,1.88525 1.50821,2.4806 0.83827,0.58932 1.92489,0.88403 3.25989,0.88403 1.69581,0 2.96446,-0.40294 3.80607,-1.20874 0.84759,-0.80582 1.16272,-1.90027 0.94547,-3.28338 -0.1143,-0.72764 -0.36516,-1.32903 -0.75248,-1.80409 -0.38733,-0.47507 -0.9339,-0.85389 -1.63976,-1.13653 0.86552,-0.2706 1.49411,-0.70961 1.88576,-1.31698 0.39771,-0.60736 0.52951,-1.33797 0.39535,-2.1919 -0.15116,-0.96216 -0.6201,-1.70784 -1.40681,-2.23703 -0.78672,-0.52919 -1.81754,-0.79376 -3.09241,-0.79376 z m 0.0542,2.18287 c 0.3969,0 0.73555,0.1263 1.01576,0.37887 0.27926,0.24656 0.45145,0.57725 0.51665,0.99218 0.0926,0.58933 -0.001,1.06441 -0.28124,1.42522 -0.27501,0.3548 -0.68916,0.53224 -1.2424,0.53224 -0.39088,0 -0.72644,-0.1263 -1.00665,-0.37887 -0.28024,-0.25257 -0.45239,-0.58335 -0.51664,-0.99227 -0.0926,-0.58932 -0.001,-1.06139 0.27361,-1.41619 0.27406,-0.36081 0.68767,-0.54118 1.24091,-0.54118 z m -0.19999,5.50236 c 0.47506,0 0.87409,0.1473 1.19699,0.44197 0.32892,0.29466 0.53262,0.69156 0.61104,1.19069 0.11054,0.70358 -0.007,1.29291 -0.35372,1.76798 -0.34724,0.46905 -0.84259,0.70358 -1.48604,0.70358 -0.48108,0 -0.88255,-0.1443 -1.20453,-0.43295 -0.31689,-0.29466 -0.51456,-0.69156 -0.59299,-1.19069 -0.10959,-0.69756 0.009,-1.28388 0.35513,-1.75895 0.35138,-0.48108 0.8427,-0.72163 1.47412,-0.72163 z"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:50.79999924px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique Semi-Condensed';letter-spacing:-6.15685606px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09621631"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="49.23"
-         inkscape:export-xdpi="49.23"
-         inkscape:export-filename="/home/jtgans/path4670.png"
-         sodipodi:nodetypes="ccccccccc"
-         id="path4670-6"
-         d="m 170.52034,467.98246 -3.03957,4.55513 v 6.2843 h -2.92448 v 2.39943 h 8.43789 v -2.39943 h -2.47384 z"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:50.79999924px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique Semi-Condensed';letter-spacing:-6.15685606px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09621631"
-         inkscape:connector-curvature="0" />
-    </g>
   </g>
 </svg>

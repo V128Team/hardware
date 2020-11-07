@@ -11,3 +11,6 @@ directly in their [[https://www.wasdkeyboards.com/wasd-v3-104-key-custom-mechani
 
 Note that these are designed for the "WASD V3 104-Key Custom Mechanical
 Keyboard" in the US layout only.
+
+You can purchase the v128 Keyboard here:
+[[https://www.wasdkeyboards.com/v128-by-jtgans-104-key-v3-custom-mechanical-keyboard.html][https://www.wasdkeyboards.com/v128-by-jtgans-104-key-v3-custom-mechanical-keyboard.html]]

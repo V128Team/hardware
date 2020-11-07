@@ -19,3 +19,8 @@ should be printed on-end, vertically.
   - 2 x [[https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SSL-LX25783ID/67-1053-ND/270851][Through-hole RED Rectangle LEDs 2.3mm x 7mm]]
   - 1 x [[https://www.digikey.com/product-detail/en/e-switch/R4FBLKBLKGF0/R4FBLKBLKGF0-ND/1805292][SPST-NO 20A 125V Rocker Switch]]
   - 6 x M3x0.5x5 socket head metric screws
+  - 1 x [[https://www.adafruit.com/product/364][adafruit PN532 Breakout Board v1.6]]
+  - 2 x 1.5K Ohm through-hole resistors
+  - Assorted jumper wire
+  - 1 x Aluminum foil patch (7cm x 6cm)
+  - Double sided tape

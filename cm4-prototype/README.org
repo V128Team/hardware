@@ -61,9 +61,9 @@ Attach the aluminum foil patch to the top half of the drive bay with double
 sided sticky tape. This will provide an RF shield to prevent mis-reads of NFC
 floppies left on top of the case.
 
-[[./step3.jpg]]
-
 *** Step 3
+
+[[./step3.jpg]]
 
 Solder a small set of .1" headers to the right side of the Adafruit PN532
 breakout board. We'll use these to connect to the Pi's GPIO header in a bit.

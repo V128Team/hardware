@@ -36,6 +36,32 @@ with parts pre-sourced.
 
 [[./bom.jpg]]
 
+* Printing the Parts
+
+The STL files were printed on a Prusa i3 MK3S w/ MMU2S. The MMU2S isn't
+necessary, but the stock 0.4mm nozzle is required. Filament used was
+[[https://www.matterhackers.com/store/l/fiberforce-pantone-13-1009-tpg-pla-filament-175-075/sk/MQJXSLKD][Fiberforce's Pantone 13-1009 TPG PLA in 1.75mm diameter]]. In the US I was able to
+source this from MatterHackers, though any particular color can be used.
+
+Print settings:
+
+  - 0.4mm nozzle
+  - 0.3mm DRAFT layer height
+  - Default PrusaSlicer settings for everything else
+  - Smooth PEI springsteel sheet printbed
+
+Orientations:
+
+  - Bottom: print on the bottom, like the 128 sits normally.
+  - Front: print on the front, as though the 128 is standing on its face.
+  - Top: Print on the back, as though the 128 is standing on its back.
+
+Things to look out for when printing are that the top, in the printing
+orientation above will present some ringing artifacts. This is normal. In
+theory, it could be printed in an alternate orientation, but the fillets will
+not print properly, and dimensional accuracy in the screw holes may be lost,
+making mounting more difficult.
+
 * Assembly
 
 ** Front part

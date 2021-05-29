@@ -45,50 +45,64 @@ M3 screw holes. Before this can be done, we have to insert the various
 components we want in this part, otherwise it'll be a bit of a pain to assemble
 later.
 
+*** Step 1
+
 [[./step1.jpg]]
 
-  1. Insert the rectangular LEDs into the two LED holes (one for power, one for
-     drive activity) and secure using superglue on the back. Solder hookup
-     wiring to the leads and cover with heat shrink.
+Insert the rectangular LEDs into the two LED holes (one for power, one for drive
+activity) and secure using superglue on the back. Solder hookup wiring to the
+leads and cover with heat shrink.
+
+*** Step 2
 
 [[./step2.jpg]]
 
-  2. Attach the aluminum foil patch to the top half of the drive bay with double
-     sided sticky tape. This will provide an RF shield to prevent mis-reads of
-     NFC floppies left on top of the case.
+Attach the aluminum foil patch to the top half of the drive bay with double
+sided sticky tape. This will provide an RF shield to prevent mis-reads of NFC
+floppies left on top of the case.
 
 [[./step3.jpg]]
 
-  3. Solder a small set of .1" headers to the right side of the Adafruit PN532
-     breakout board. We'll use these to connect to the Pi's GPIO header in a
-     bit. Attach two strips of double sided tape to the breakout board, on the
-     side where the silkscreen shows, then stick to the /bottom/ of the drive
-     bay.
+*** Step 3
+
+Solder a small set of .1" headers to the right side of the Adafruit PN532
+breakout board. We'll use these to connect to the Pi's GPIO header in a bit.
+Attach two strips of double sided tape to the breakout board, on the side where
+the silkscreen shows, then stick to the /bottom/ of the drive bay.
+
+*** Step 4
 
 [[./step4.jpg]]
 
-  4. Screw the front part to the bottom part using the two M3x8 screws. First,
-     drive a screw through each mounting hole on the bottom and then overtighten
-     to tear out the screw threads. Remove the screw, then repeat on the other
-     side. Once that's done, use the screws to tap holes in the front piece --
-     screw in until it's just finger tight and won't turn any further. Now that
-     that is done, you can screw the two parts together without too much
-     trouble.
+Screw the front part to the bottom part using the two M3x8 screws. First, drive
+a screw through each mounting hole on the bottom and then overtighten to tear
+out the screw threads. Remove the screw, then repeat on the other side. Once
+that's done, use the screws to tap holes in the front piece -- screw in until
+it's just finger tight and won't turn any further. Now that that is done, you
+can screw the two parts together without too much trouble.
+
+** Bottom part
+
+*** Step 5
 
 [[./step5.jpg]]
 
-  5. Place the compute IO board facing the back of the bottom of the case, line
-     up the port holes, and the screw holes. Screw it down using all 7 of the
-     M2.5x5 button head screws, finger tight in each hole. You may have to push
-     down on the board slightly to align the ports with the holes, or push from
-     the front of the board (near the jumpers and ribbon cable slots) to align
-     the screw holes, depending on how your print came out.
+Place the compute IO board facing the back of the bottom of the case, line up
+the port holes, and the screw holes. Screw it down using all 7 of the M2.5x5
+button head screws, finger tight in each hole. You may have to push down on the
+board slightly to align the ports with the holes, or push from the front of the
+board (near the jumpers and ribbon cable slots) to align the screw holes,
+depending on how your print came out.
+
+*** Step 6
 
 [[./step6.jpg]]
 
-  6. Insert the power switch into the slot on the back.
+Insert the power switch into the slot on the back.
+
+*** Step 7
 
 [[./step7.jpg]]
 
-  7. Crimp the quick connect blade connectors to some hookup wire, and attach to
-     the blade terminals of the switch.
+Crimp the quick connect blade connectors to some hookup wire, and attach to the
+blade terminals of the switch.

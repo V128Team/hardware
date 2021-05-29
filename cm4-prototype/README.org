@@ -1,0 +1,27 @@
+#+CAPTION: UDOO X86 II Advanced Plus initial prototype
+#+NAME: fig:udoo-prototype.png
+[[./cm4-prototype.png]]
+
+* Notes
+
+This is the second version of the v128 system, in prototype form. This system
+uses a Raspberry Pi 4 compute module and IO board as the main workhorse. The
+screws have no metal inserts to screw into, and screw directly into the plastic.
+
+These parts are designed to be 3D printed using a 0.2mm layer height. The front
+piece should be printed with the facia facing the print bed. The top-piece
+should be printed on-end, vertically.
+
+* Generalized Bill-of-Materials
+
+  - 1 x Raspberry Pi [[https://www.raspberrypi.org/products/compute-module-4/?variant=raspberry-pi-cm4001000][Compute Module 4]]
+  - 1 x Raspberry Pi [[https://www.raspberrypi.org/products/compute-module-4-io-board/][Compute Module 4 IO Board]]
+  - 1 x [[https://www.digikey.com/product-detail/en/ideal-power-ltd/40XA065BP1200300/2882-40XA065BP1200300-ND/12818292][12V AC/DC adapter]]
+  - 2 x [[https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SSL-LX25783ID/67-1053-ND/270851][Through-hole RED Rectangle LEDs 2.3mm x 7mm]]
+  - 1 x [[https://www.digikey.com/product-detail/en/e-switch/R4FBLKBLKGF0/R4FBLKBLKGF0-ND/1805292][SPST-NO 20A 125V Rocker Switch]]
+  - 6 x M3x0.5x5 socket head metric screws
+  - 1 x [[https://www.adafruit.com/product/364][adafruit PN532 Breakout Board v1.6]]
+  - 2 x 1.5K Ohm through-hole resistors
+  - Assorted jumper wire
+  - 1 x Aluminum foil patch (7cm x 6cm)
+  - Double sided tape

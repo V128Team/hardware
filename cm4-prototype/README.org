@@ -17,7 +17,8 @@ should be printed on-end, vertically.
 This is a generalized list to cover most of the features of the v128, and where
 to get parts. Most things are sourced from DigiKey since they are a reliable,
 reputable, and repeatable source for components. Apologies if you live in an
-area where DigiKey is not servicing. In the future, this will be made far more 
+area where DigiKey is not servicing. In the future, this will be made as a kit
+with parts pre-sourced.
 
   - 1 x Raspberry Pi [[https://www.raspberrypi.org/products/compute-module-4/?variant=raspberry-pi-cm4001000][Compute Module 4]]
   - 1 x Raspberry Pi [[https://www.raspberrypi.org/products/compute-module-4-io-board/][Compute Module 4 IO Board]]

@@ -14,14 +14,81 @@ should be printed on-end, vertically.
 
 * Generalized Bill-of-Materials
 
+This is a generalized list to cover most of the features of the v128, and where
+to get parts. Most things are sourced from DigiKey since they are a reliable,
+reputable, and repeatable source for components. Apologies if you live in an
+area where DigiKey is not servicing. In the future, this will be made far more 
+
   - 1 x Raspberry Pi [[https://www.raspberrypi.org/products/compute-module-4/?variant=raspberry-pi-cm4001000][Compute Module 4]]
   - 1 x Raspberry Pi [[https://www.raspberrypi.org/products/compute-module-4-io-board/][Compute Module 4 IO Board]]
   - 1 x [[https://www.digikey.com/product-detail/en/ideal-power-ltd/40XA065BP1200300/2882-40XA065BP1200300-ND/12818292][12V AC/DC adapter]]
   - 2 x [[https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SSL-LX25783ID/67-1053-ND/270851][Through-hole RED Rectangle LEDs 2.3mm x 7mm]]
   - 1 x [[https://www.digikey.com/product-detail/en/e-switch/R4FBLKBLKGF0/R4FBLKBLKGF0-ND/1805292][SPST-NO 20A 125V Rocker Switch]]
+  - 2 x [[Quick Connect connectors][https://www.digikey.com/en/products/detail/molex/0192740005/2793741]]
   - 6 x M3x0.5x5 socket head metric screws
   - 1 x [[https://www.adafruit.com/product/364][adafruit PN532 Breakout Board v1.6]]
-  - 2 x 1.5K Ohm through-hole resistors
+  - 7 x M2.5 x 5 button-head screws
+  - 2 x M3 x 8 screws
   - Assorted jumper wire
-  - 1 x Aluminum foil patch (7cm x 6cm)
+  - Aluminum foil patch (7cm x 6cm)
   - Double sided tape
+  - Glue
+
+[[./bom.jpg]]
+
+* Assembly
+
+** Front part
+
+The front facing part of the v128 shell fastens onto the backplane by way of two
+M3 screw holes. Before this can be done, we have to insert the various
+components we want in this part, otherwise it'll be a bit of a pain to assemble
+later.
+
+[[./step1.jpg]]
+
+  1. Insert the rectangular LEDs into the two LED holes (one for power, one for
+     drive activity) and secure using superglue on the back. Solder hookup
+     wiring to the leads and cover with heat shrink.
+
+[[./step2.jpg]]
+
+  2. Attach the aluminum foil patch to the top half of the drive bay with double
+     sided sticky tape. This will provide an RF shield to prevent mis-reads of
+     NFC floppies left on top of the case.
+
+[[./step3.jpg]]
+
+  3. Solder a small set of .1" headers to the right side of the Adafruit PN532
+     breakout board. We'll use these to connect to the Pi's GPIO header in a
+     bit. Attach two strips of double sided tape to the breakout board, on the
+     side where the silkscreen shows, then stick to the /bottom/ of the drive
+     bay.
+
+[[./step4.jpg]]
+
+  4. Screw the front part to the bottom part using the two M3x8 screws. First,
+     drive a screw through each mounting hole on the bottom and then overtighten
+     to tear out the screw threads. Remove the screw, then repeat on the other
+     side. Once that's done, use the screws to tap holes in the front piece --
+     screw in until it's just finger tight and won't turn any further. Now that
+     that is done, you can screw the two parts together without too much
+     trouble.
+
+[[./step5.jpg]]
+
+  5. Place the compute IO board facing the back of the bottom of the case, line
+     up the port holes, and the screw holes. Screw it down using all 7 of the
+     M2.5x5 button head screws, finger tight in each hole. You may have to push
+     down on the board slightly to align the ports with the holes, or push from
+     the front of the board (near the jumpers and ribbon cable slots) to align
+     the screw holes, depending on how your print came out.
+
+[[./step6.jpg]]
+
+  6. Insert the power switch into the slot on the back.
+
+[[./step7.jpg]]
+
+  7. Crimp the quick connect blade connectors to some hookup wire, and attach to
+     the blade terminals of the switch.
